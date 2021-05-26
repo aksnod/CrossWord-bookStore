@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+#headermenu{
+	 display: table;
+	 background-color: :grey
+	 
+}
+#container{
+	background-color: red;
+	
+}
+
+
+
+a:link{
+	color:cornflowerBlue;
+	text-decoration: none;
+}
+a:visited{
+color:indigo;
+}
+
+a:hover{
+	color:blue;
+	text-decoration: underline;
+}
+
+a:active {
+	color:red;
+}
